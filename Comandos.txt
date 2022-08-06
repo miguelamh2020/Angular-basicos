@@ -1,0 +1,4 @@
+Secc 4.33
+ng new bases : crea el proyecto angular
+ng serve -o : transpila a js y lo abre cuando este disponible
+ng g c Heroe/listado
